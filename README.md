@@ -2,12 +2,11 @@
 
 ## Project Description
 
-This project focuses on the **Online Retail Sales Data Analysis**, utilizing Excel file datasets to perform various analyses and visualizations in Power BI. The primary goal was to enhance reporting accuracy, improve sales strategies, boost customer retention, and reduce stockouts.
+This project focuses on the **Online Retail Sales Data Analysis**, utilizing Excel file datasets from online retail sales data to perform various analyses and visualizations in Power BI. The primary goal was to enhance reporting accuracy, improve sales strategies, boost customer retention, and reduce stockouts.
 
 ## Datasets
 
-- **Reactions:** This dataset contains information about the reactions received by various content.
-- **Reaction Types:** This dataset details the types of reactions associated with the content.
+- **Online Retail Sales Data:** This dataset includes detailed information about sales transactions, customer demographics, and product details.
 
 ## Analysis
 
@@ -36,7 +35,3 @@ The key insights derived from the analysis are:
 2. **Sales Comparison:** Improved sales strategy efficiency by 30%.
 3. **Customer Insights:** Boosted high-value customer retention by 20%.
 4. **Global Demand Mapping:** Reduced stockouts by 15%.
-
----
-
-Feel free to use this detailed structure in your README file to effectively showcase your project!
